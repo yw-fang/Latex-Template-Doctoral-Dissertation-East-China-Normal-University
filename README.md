@@ -38,5 +38,5 @@ Revision history:
 1. Created in Chinese Spring Festival, 2017
 2. Morning, 6th September, 2017: update files
 
-The tools I used to compile my doctoral dissertation:
+The tool I used to compile my doctoral dissertation:
 CTEX 2.9
