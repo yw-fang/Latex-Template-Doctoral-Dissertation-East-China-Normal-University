@@ -1,5 +1,6 @@
 # Latex-Template-Doctoral-Dissertation-EastChinaNormalUniversity
 华东师范大学博士论文latex模板
+
 I had the idea to set up a project at GitHub in early 2017 when I was preparing
 my doctoral dissertation at East China Normal University (ECNU). 
 
