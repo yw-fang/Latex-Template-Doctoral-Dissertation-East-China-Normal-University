@@ -10,14 +10,15 @@ latex tempelate for doctoral dissdertation of ECNU. I wrote my thesis entitled
 I hope it can be applied into more doctoral dissertations, and I am also
 confident that many PhD students will be glad to use it.
 
-Anyone who needs templae can use and modify it freely under the license, 
-and I will be grateful if you will acknowledge my project like this:
+Anyone who needs this template can use and modify it freely under the license, 
+and I will be grateful if you can acknowledge or cite my project in your thesis
+like this:
 论文模板来自于方跃文的GitHub项目——华东师范大学博士论文latex模板 (
 https://github.com/yw-fang/Latex-Template-Doctoral-Dissertation-East-China-Normal-University.git
 )
 
 Although Dr. Yuguang Zhang didn't take part in this project directly, I still would
-like to list him as one of the authors of this latex template project because of his contributions.
+like to list him as one of the authors of this latex template project owning to his large contributions.
 
 
 Author:
@@ -27,7 +28,6 @@ New York University Shanghai
 &
 Yuguang Zhang
 East China Normal University 
-
 
 
 Revision history:
