@@ -17,6 +17,10 @@ like this:
 https://github.com/yw-fang/Latex-Template-Doctoral-Dissertation-East-China-Normal-University.git
 )
 
+
+It is also highly encuraged that other contributors can refine this template.
+
+
 Although Dr. Yuguang Zhang didn't take part in this project directly, I still would
 like to list him as one of the authors of this latex template project owning to his large contributions.
 
@@ -33,3 +37,6 @@ East China Normal University
 Revision history:
 1. Created in Chinese Spring Festival, 2017
 2. Morning, 6th September, 2017: update files
+
+The tools I used to compile my doctoral dissertation:
+CTEX 2.9
