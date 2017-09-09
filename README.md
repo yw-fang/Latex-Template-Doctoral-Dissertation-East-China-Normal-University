@@ -36,7 +36,7 @@ East China Normal University
 
 Revision history:
 1. Created in Chinese Spring Festival, 2017
-2. Night, 6th September, 2017: update README and main tex. At present, I find some Chinese characters could
+2. Night, 6th-9th September, 2017: update README and main tex. At present, I find some Chinese characters could
 not be rendered in Git. I will fix it in the coming days.
 
 The tool I used to compile my doctoral dissertation:
