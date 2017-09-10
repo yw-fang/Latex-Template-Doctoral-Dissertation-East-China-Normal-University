@@ -40,4 +40,5 @@ Revision history:
 not be rendered in Git. I will fix it in the coming days.
 
 The tool I used to compile my doctoral dissertation:
-CTEX 2.9
+Both CTEX 2.9 and TexLive 2017 were tested. I recommend to use TexLive 2017 because CTEX2.9 was developed more than five years ago.
+Latex code is usually robust without bugs, and you can use either of them on your favor.
